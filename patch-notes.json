@@ -8,8 +8,8 @@
 	{
 		"id": "2",
 		"version": "0.0.2",
-		"title": "Second Post",
-		"body": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+		"title": "Markdown Feature Test",
+		"body": "**Strong text**\n*Italic text*\n_Underline text_\n~~Strikethrough text~~\n* Bullet a\n* Bullet b\n  * Nested bullet a\n  * Nested bullet b\n+ Plus a\n+ Plus b\n1. Ordered 1\n1. Ordered 2\n1. Ordered 3\n---\n# Header 1\n## Header 2\n### Header 3\n***\n`Code text`\n```javascript\nvar foo = function() {}\n```\n[Link out](https://www.loot.io/)\n^subscript\n~superscript\n==Marked text==\n"
 	},
 	{
 		"id": "3",
