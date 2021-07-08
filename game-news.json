@@ -52,5 +52,14 @@
 		"body": "**Patch 0.8.4 - Closed Beta**\n\nWelcome to Patch 0.8.4.\n\n:computer: **Quality-of-Life**\n\n+ Several screens in the Hub World now have hotkeys:\n    [U] for Furnace\n    [L] for Worm Delivery\n    [M] for Marketplace\n    [B] for Departure\n+ We gave the Identification NPC some quality-of-life by sprucing up his runestone abode\n\n:bug: **Bugs**\n\n+ Fixed some **major** and minor memory leaks!\n+ Optimized asset loading, so more assets are loaded on-demand instead of up-front\n+ Fixed a bug when purchasing items at Bubba's Store or the General Store that could result in a double-purchase\n+ Fixed an issue where the timer for Marketplace listings didn't match what you had selected\n+ Your coin balance now updates when you check the Marketplace\n+ Your stash now updates if you check the Marketplace and find a listing has expired\n+ Fixed an issue where resizing the browser window could cause enemies and props to 'pop in' on the edges of the screen\n\n:rare: **Game Balance**\n\n+ Rarity Shards now come in additional rarities. How they alter the Trash Pit of Chances is anyone's guess, but enjoy these new :rarityshardlegendary: and :rarityshardastro: shards!\n+ The awesomeness of Weapon visuals is now based on the rarity of the weapons - no more Astronomical Twigs!\n+ The weapon testing range now has more animations - step one toward target dummies! :no_mouth:",
 		"iconBackground": "none",
 		"icon": "loot-news"
+	},
+	{
+		"id": 7,
+		"version": "0.8.5",
+		"title": "Patch 0.8.5 Closed Beta",
+		"excerpt": "New leaderboards, faster POIs, and more bug slayin'!",
+		"body": "**Patch 0.8.5 - Closed Beta**\n\nWelcome to Patch 0.8.5.\n\n:ice_cube: **Cool New Stuff**\n\n+ We added a ton of new leaderboards!\n  + Items Looted\n  + Worm Items Deposited\n  + Points of Interest Defeated\n  + Enchantments Equipped\n  + Max Critical Strike Damage\n\nWho's going to land the **biggest hit** of them all?!\n\n:computer: **Quality-of-Life**\n\n+ 'Monster Raid' Points of Interest will now spawn the next wave after most of the previous wave is defeated, instead of after a set delay of time. Faster completion!\n\n:bug: **Bugs**\n\n+ Fixed a bug where pressing Tab could have unintended effects, including disabling your controls and opening weird screens\n+ Fixed a bug with Spellswords could fire through some walls\n+ Fixed a bug where enemies outside of Boss Arena could attack you if you were inside\n+ Continued slaying 'white screen of death' and memory leak bugs!",
+		"iconBackground": "none",
+		"icon": "loot-news"
 	}
 ]
